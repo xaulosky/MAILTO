@@ -1,0 +1,2 @@
+# MAILTO
+Rediect mailto
